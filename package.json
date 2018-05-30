@@ -1,0 +1,25 @@
+{
+  "name": "inject-prefetch",
+  "version": "0.1.2",
+  "description": "Dynamically inject prefetch tags into the header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheapsteak/inject-prefetch.git"
+  },
+  "keywords": [
+    "prefetch",
+    "dynamic",
+    "link",
+    "download"
+  ],
+  "author": "Chang Wang <cheapsteak@gmail.com> (https://github.com/cheapsteak)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheapsteak/inject-prefetch/issues"
+  },
+  "homepage": "https://github.com/cheapsteak/inject-prefetch#readme"
+}
